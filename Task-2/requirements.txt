@@ -1,0 +1,34 @@
+
+---
+
+## 🧰 Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## ⚙️ Machine Learning Models
+- **Linear Regression**
+- **Random Forest Regressor**
+
+Random Forest performed better with higher accuracy and R² score.
+
+---
+
+## 📊 Evaluation Metrics
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+---
+
+## 🚀 How to Run the Project
+1. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+ 
+ ##run
+ python movie_rating.py
